@@ -1,2 +1,2 @@
 # Gnuplot
-Some plots using Gnuplot
+Some Gnuplot figures
